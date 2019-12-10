@@ -1,0 +1,2 @@
+g++ c.cc -DWEBRTC_POSIX  -I /home/liu/桌面/WebRtcS/com/include -L  /home/liu/桌面/WebRtcS/com/lib/x64/Release  -l webrtc_full -l pthread
+
